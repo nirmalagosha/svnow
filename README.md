@@ -1,1 +1,1 @@
-Voice Assitant
+Flask App for personal blogging
